@@ -6,6 +6,7 @@
 
 - `arduino_grove_ledbar.ipynb`
 - `pmod_grove_usranger.ipynb`
+- `ledbar_and_ultrasonic_ranger.ipynb`
 
 ## 运行Demo
 
@@ -15,4 +16,4 @@
 - grove led bar http://wiki.seeedstudio.com/Grove-LED_Bar/
 - grove ultrasonic ranger sensor http://wiki.seeedstudio.com/Grove-Ultrasonic_Ranger/
 
-打开刚刚上传的两个notebook，根据其中的指令一步步照做即可。
+打开刚刚上传的notebook，根据其中的指令一步步照做即可。
